@@ -1,4 +1,5 @@
 # Hardware-based SSH/GPG agent
+![](https://github.com/ymmah/trezor-agent/blob/master/AI/ArtBoard%20Image%20(447).jpg)
 
 [![Build Status](https://travis-ci.org/romanz/trezor-agent.svg?branch=master)](https://travis-ci.org/romanz/trezor-agent)
 [![Chat](https://badges.gitter.im/romanz/trezor-agent.svg)](https://gitter.im/romanz/trezor-agent)
